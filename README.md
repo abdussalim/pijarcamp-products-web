@@ -15,7 +15,7 @@ Tabel: “produk”
 
 - Halaman awal ketika database masih kosong
 
-![Img 1](images/1-kosong-1.png)
+![Img 1](images/1-awal-1.png)
 
 - Tambah Data
 
