@@ -1,0 +1,24 @@
+
+html,body{
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+
+
+table{
+	border: 1px;
+}
+
+
+h1,h2,h3,h4,h5,label,button{
+	font-family: monospace;
+}
+
+
+h1>span>a.tambah-data-awal{
+	color: black;
+	font-weight: bold;
+	font-style: italic;
+}
+
