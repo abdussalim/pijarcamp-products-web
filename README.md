@@ -3,7 +3,7 @@ Website untuk CRUD (Create, Read, Update dan Delete Produk dan Barang)
 
 ## Gambaran Umum Website Saya
 
-Data umum :
+Gambaran umum :
 
 Bahasa Back-End yang digunakan adalah PHP dan Database yang digunakan adalah MySQL, jika diperlukan saya telah menyiapkan databasenya dengan file bernama "pijarcamp.sql" pada repository github saya.
 
