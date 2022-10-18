@@ -13,11 +13,11 @@ Password: (kosong)
 Database: “pijarcamp”
 Tabel: “produk”
 
-- Halaman awal ketika database masih kosong
+## Halaman awal ketika database masih kosong
 
 ![Img 1](images/1-awal-1.png)
 
-- Tambah Data
+## Tambah Data
 
 ![Img 2](images/2-tambah-1.png)
 
@@ -25,11 +25,11 @@ Tabel: “produk”
 
 ![Img 4](images/2-tambah-3.png)
 
-- Navigasi Halaman (Paginasi)
+## Navigasi Halaman (Paginasi)
 
 ![Img 5](images/3-paginasi-1.png)
 
-- Edit Data
+## Edit Data
 
 ![Img 6](images/4-edit-1.png)
 
@@ -41,13 +41,13 @@ Tabel: “produk”
 
 ![Img 10](images/4-edit-5.png)
 
-- Hapus Data
+## Hapus Data
 
 ![Img 11](images/5-hapus-1.png)
 
 ![Img 12](images/5-hapus-2.png)
 
-- Kosongkan Tabel
+## Kosongkan Tabel
 
 ![Img 13](images/6-kosong-1.png)
 
