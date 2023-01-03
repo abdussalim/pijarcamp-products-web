@@ -1,5 +1,5 @@
 # Pijarcamp Products Web
-Website untuk CRUD (Create, Read, Update dan Delete Produk dan Barang)
+Website untuk CRUD (Create, Read, Update dan Delete Produk dan Barang).
 
 ## Gambaran Umum Website Saya
 
